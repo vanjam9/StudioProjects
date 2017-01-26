@@ -4,6 +4,8 @@
 public class JebiTeSe {
     public static void main(String[] args) {
         int polo;
+        String polp;
+        
     }
 
 }
